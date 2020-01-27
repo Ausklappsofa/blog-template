@@ -18,6 +18,11 @@
     <span v-if="date" class="date-wrapper">
       <strong>Published on:</strong> {{ datePretty }}
     </span>
+    <br />
+    <br />
+    <p class="excerpt">
+      {{ short }}
+    </p>
   </generic-card>
 </template>
 
