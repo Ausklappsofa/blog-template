@@ -11,6 +11,8 @@
         :image="item.featureImage"
         :author="item.author"
         :date="item.date"
+        :short="item.short"
+
       />
     </template>
   </resource-grid>
