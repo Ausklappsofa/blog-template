@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 subtitle: Get Up and Running with Awake
+short: Example for github pull request
 category:
   - About Awake
 author: Daniel Kelly
